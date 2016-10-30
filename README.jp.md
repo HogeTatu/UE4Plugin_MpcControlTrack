@@ -30,8 +30,8 @@
 
 ## サンプルプロジェクト
 
-MpcControlTrackDemoがサンプルプロジェクトです。
-MpcControlTrackDemo.uprojectを起動し、動作と実装例を確認してください。
+MpcControlTrackDemoがサンプルプロジェクトです。  
+MpcControlTrackDemo.uprojectを起動し、動作と実装例を確認してください。  
 
 ## ライセンス
 
@@ -47,6 +47,6 @@ MpcControlTrackDemo.uprojectを起動し、動作と実装例を確認してく�
 
 ## 問い合わせ
 
-バグがあった場合は [@HogeTatu](https://twitter.com/HogeTatu) までご連絡頂けると助かります。
-ただ、対応時期に関しては保証できません。
-プルリクエスト大歓迎です。
+バグがあった場合は [@HogeTatu](https://twitter.com/HogeTatu) までご連絡頂けると助かります。  
+ただ、対応時期に関しては保証できません。  
+プルリクエスト大歓迎です。  
