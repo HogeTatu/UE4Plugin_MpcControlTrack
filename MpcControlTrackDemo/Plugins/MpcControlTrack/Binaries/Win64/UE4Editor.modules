@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3142249,
+	"BuildId" : "847cca46-77e9-4428-a82b-58b0c7e9fc24",
+	"Modules" : 
+	{
+		"MpcControlTrack" : "UE4Editor-MpcControlTrack.dll",
+		"MpcControlTrackEditor" : "UE4Editor-MpcControlTrackEditor.dll"
+	}
+}

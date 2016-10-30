@@ -1,0 +1,12 @@
+﻿Build/
+Intermediate/
+Saved/
+
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.pdb
+*.db
+*.opendb
+*.log

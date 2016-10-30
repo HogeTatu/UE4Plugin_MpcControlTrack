@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MpcControlTrack",
+	"Description": "It is a plugin to control material parameter collection's properties from sequencer.",
+	"Category": "Editor",
+	"CreatedBy": "@HogeTatu",
+	"CreatedByURL": "http://hogetatu.hatenablog.com/",
+	"DocsURL": "https://github.com/HogeTatu/UE4Plugin_MpcControlTrack",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/HogeTatu/UE4Plugin_MpcControlTrack",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MpcControlTrack",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MpcControlTrackEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
