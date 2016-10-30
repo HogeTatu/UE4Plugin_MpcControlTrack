@@ -15,19 +15,19 @@ After clone repository or download ZIP, and Place the MpcControlTrack directory 
 
 ## Usage
 
-1. Create and edit the MaterialParameterCollection asset.
+1. Create and edit the MaterialParameterCollection asset.  
 ![MpcControlTrackDemo_03](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_03.png)
 
-1. Create the actor inherited MpcOwnerActor.
+1. Create the actor inherited MpcOwnerActor.  
 ![MpcControlTrackDemo_02](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_02.png)
 
-1. Add a property with the same name as the added properties in the MaterialParameterCollection, check the "Expose to Cinematics".
+1. Add a property with the same name as the added properties in the MaterialParameterCollection, check the "Expose to Cinematics".  
 ![MpcControlTrackDemo_04](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_04.png)
 
-1. Drag and drop the actor on the sequencer editor.
+1. Drag and drop the actor on the sequencer editor.  
 ![MpcControlTrackDemo_05](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_05.png)
 
-1. Add the property track.
+1. Add the property track.  
 ![MpcControlTrackDemo_06](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_06.png)
 
 ## Example project
