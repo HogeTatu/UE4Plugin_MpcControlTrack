@@ -13,19 +13,22 @@
 
 ## 使い方
 
-1. 任意のMaterialParameterCollectionアセットを作成します。
+1. 任意のMaterialParameterCollectionアセットを作成します。  
 ![MpcControlTrackDemo_03](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_03.png)
 
-1. MpcOwnerActorを継承したアクターを作成します。
+1. MpcOwnerActorを継承したアクターを作成します。  
 ![MpcControlTrackDemo_02](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_02.png)
 
-1. MaterialParameterCollectionに追加したプロパティと同名のプロパティを追加し, "Expose to Cinematics"にチェックを入れます。
+1. "Class Defaults"を選択し、"Material Parameter Collection"プロパティにアセットを設定します。  
+![MpcControlTrackDemo_07](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_07.png)
+
+1. MaterialParameterCollectionに追加したプロパティと同名のプロパティを追加し, "Expose to Cinematics"にチェックを入れます。  
 ![MpcControlTrackDemo_04](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_04.png)
 
-1. アクターをシーケンサーエディターにドラッグアンドドロップします。
+1. アクターをシーケンサーエディターにドラッグアンドドロップします。  
 ![MpcControlTrackDemo_05](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_05.png)
 
-1. プロパティトラックを追加します。
+1. プロパティトラックを追加します。  
 ![MpcControlTrackDemo_06](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_06.png)
 
 ## サンプルプロジェクト
