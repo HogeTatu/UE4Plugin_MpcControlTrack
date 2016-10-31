@@ -21,6 +21,9 @@ After clone repository or download ZIP, and Place the MpcControlTrack directory 
 1. Create the actor inherited MpcOwnerActor.  
 ![MpcControlTrackDemo_02](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_02.png)
 
+1. Select the "Class Defaults", and set the asset to the "Material Parameter Collection" property.  
+![MpcControlTrackDemo_07](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_07.png)
+
 1. Add a property with the same name as the added properties in the MaterialParameterCollection, check the "Expose to Cinematics".  
 ![MpcControlTrackDemo_04](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack/blob/master/DocImage/MpcControlTrackDemo_04.png)
 
